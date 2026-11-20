@@ -1,0 +1,8 @@
+# Local secrets/configuration
+src/main/resources/application.properties
+.env
+.env.*
+!.env.example
+
+# Build output
+target/
